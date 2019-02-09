@@ -1,4 +1,4 @@
-Today I see a beautiful equation:
+Today I see a beautiful equation:  
 ![How Pretty This Equation Is](/prettybrace.png)  
 I don't know how to write it in Tex.
 I try my best to write like following:
@@ -20,4 +20,5 @@ r_{t}=\left\{
 ```
 ![My Ugle Brace](https://github.com/freshn/How-To-Write-A-Beautiful-Brace-In-Tex/blob/master/mybrace.png?raw=true)  
 It is obviously that the underbrace is a little far from the main part of the equation. And actually both the method I write and the result are ugle.  
-So I wonder if there is some better ways to write it.
+So I wonder if there is some better ways to write it.  
+Hoping someone can help.[Pull Request](https://github.com/freshn/How-To-Write-A-Beautiful-Brace-In-Tex/compare) :octocat: 
