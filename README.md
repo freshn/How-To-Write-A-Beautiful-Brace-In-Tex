@@ -18,6 +18,6 @@ r_{t}=\left\{
 \end{aligned}
 \end{equation}
 ```
-![My Ugle Brace](https://github.com/freshn/How-To-Write-A-Beautiful-Brace-In-Tex/blob/master/mybrace.png?raw=true ''My Ugle Brace'')
+![My Ugle Brace](https://github.com/freshn/How-To-Write-A-Beautiful-Brace-In-Tex/blob/master/mybrace.png?raw=true)
 It is obviously that the underbrace is a little far from the main part of the equation. And actually both the method I write and the result are ugle.  
 So I wonder if there is some better ways to write it.
