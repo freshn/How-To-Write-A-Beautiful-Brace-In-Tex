@@ -1,5 +1,5 @@
 Today I see a beautiful equation:
-![How Pretty This Equation Is](./prettybrace.png ''How Pretty This Equation Is'')
+![How Pretty This Equation Is](/prettybrace.png ''How Pretty This Equation Is'')
 I don't know how to write it in Tex.
 I try my best to write like following:
 ```
@@ -18,6 +18,6 @@ r_{t}=\left\{
 \end{aligned}
 \end{equation}
 ```
-![My Ugle Brace](./mybrace.png ''My Ugle Brace'')
+![My Ugle Brace](/mybrace.png ''My Ugle Brace'')
 It is obviously that the underbrace is a little far from the main part of the equation. And actually both the method I write and the result are ugle.  
 So I wonder if there is some better ways to write it.
